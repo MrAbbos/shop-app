@@ -10,11 +10,10 @@
 .cards {
   display: flex;
   flex-wrap: wrap;
-  align-items: baseline;
+  align-items: stretch;
 }
 
 .card {
-  min-height: 22vh;
   flex: 1;
   min-width: 355px;
   margin: 0.3rem;
@@ -32,6 +31,9 @@
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
 }
 
+.img-card {
+  height: 35vh;
+}
 .card img {
   border-radius: 0.8rem;
 }

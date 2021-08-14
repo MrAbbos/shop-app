@@ -11,8 +11,8 @@ export default function Product({ product }) {
 
   return (
     <div className="card">
-      <div className="img-card flex">
-        <img width="100%" src={image} alt={title} />
+      <div className="img-card space-a flex">
+        <img src={image} alt={title} />
       </div>
       {/* <Link to={`/product/${id}`}> */}
       <div className="flex content-card space-b">
