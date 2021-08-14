@@ -1,0 +1,29 @@
+.savatComponent {
+  flex-wrap: wrap;
+  margin: 0.4rem !important;
+}
+.savat {
+  border: 1px solid black;
+  border-radius: 15px;
+}
+
+.savat .savatImg {
+  width: 30%;
+}
+.savatImg {
+  justify-content: center !important;
+}
+.cart-right-box {
+  width: 70%;
+}
+.cart-right-box .box-2,
+.cart-right-box .box-1 {
+  width: 100%;
+}
+input[type="number"] {
+  width: 80px;
+}
+
+.total {
+  float: right;
+}

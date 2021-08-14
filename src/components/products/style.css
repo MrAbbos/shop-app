@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.space-b {
+  justify-content: space-between;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+}
+
+.card {
+  min-height: 22vh;
+  flex: 1;
+  min-width: 355px;
+  margin: 0.3rem;
+  border: 0.15rem solid inherit;
+  border-radius: 1rem;
+  /*  simple box shadow
+       box-shadow: 0 0 50px #ccc;  */
+
+  /* box shadow next-lvl */
+
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3),
+    0 0 40px rgba(0, 0, 0, 0.1) inset;
+  -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3),
+    0 0 40px rgba(0, 0, 0, 0.1) inset;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+
+.card img {
+  border-radius: 0.8rem;
+}
+
+.content-card {
+  padding: 0.3rem;
+}
+.card-box-left {
+  flex: 2;
+}
+.card-box-right {
+  flex: 1;
+  flex-direction: column;
+}
+.icon {
+  text-align: right;
+}
+
+.card-box-right i:active {
+  color: red;
+}

@@ -1,0 +1,36 @@
+#productDetailed {
+  margin: 5rem 0;
+}
+.detailed_card {
+  justify-content: center;
+  align-items: center;
+}
+.detailed_card .box-2 {
+  margin: 0.5rem;
+}
+
+.cost {
+  background: red;
+}
+
+#faStar {
+  color: hsl(49, 100%, 50%) !important;
+}
+
+.choosingSize,
+.numberOfGoods,
+.a {
+  flex: 1;
+}
+.numberOfGoods {
+  justify-content: center;
+  align-items: center;
+}
+
+#choosing .counter {
+  width: 100px !important;
+}
+.counter button {
+  border: 1px solid black !important;
+  width: 20px;
+}
