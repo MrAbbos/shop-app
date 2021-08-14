@@ -15,7 +15,7 @@
 
 .card {
   flex: 1;
-  min-width: 15rem;
+  min-width: 290px;
   margin: 0.3rem;
   border: 0.15rem solid inherit;
   border-radius: 1rem;
