@@ -15,7 +15,7 @@
 
 .card {
   flex: 1;
-  min-width: 355px;
+  min-width: 15rem;
   margin: 0.3rem;
   border: 0.15rem solid inherit;
   border-radius: 1rem;
@@ -36,6 +36,7 @@
 }
 .card img {
   border-radius: 0.8rem;
+  max-width: 100%;
 }
 
 .content-card {
