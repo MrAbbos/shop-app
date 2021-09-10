@@ -1,17 +1,61 @@
 import { actionTypes } from "./actionTypes";
 const INITIAL_STATE = {
   products: [
-    { id: "1", title: "salom", img: "img" },
-    { id: "2", title: "salom", img: "img" },
-    { id: "3", title: "salom", img: "img" },
-    { id: "4", title: "salom", img: "img" },
-    { id: "5", title: "salom", img: "img" },
-    { id: "6", title: "salom", img: "img" },
-    { id: "7", title: "salom", img: "img" },
-    { id: "8", title: "salom", img: "img" },
-    { id: "9", title: "salom", img: "img" },
-    { id: "10", title: "salom", img: "img" },
-    { id: "11", title: "salom", img: "img" },
+    {
+      id: "1",
+      title: "no internet",
+      img: "img",
+    },
+    {
+      id: "2",
+      title: "no internet",
+      img: "img",
+    },
+    {
+      id: "3",
+      title: "no internet",
+      img: "img",
+    },
+    {
+      id: "4",
+      title: "no internet",
+      img: "img",
+    },
+    {
+      id: "5",
+      title: "no internet",
+      img: "img",
+    },
+    {
+      id: "6",
+      title: "no internet",
+      img: "img",
+    },
+    {
+      id: "7",
+      title: "no internet",
+      img: "img",
+    },
+    {
+      id: "8",
+      title: "no internet",
+      img: "img",
+    },
+    {
+      id: "9",
+      title: "no internet",
+      img: "img",
+    },
+    {
+      id: "10",
+      title: "no internet",
+      img: "img",
+    },
+    {
+      id: "11",
+      title: "no internet",
+      img: "img",
+    },
   ],
   cart: [],
   currenItem: null,
