@@ -3,57 +3,57 @@ const INITIAL_STATE = {
   products: [
     {
       id: "1",
-      title: "failed to get images",
+      title: "waiting response from backend",
       img: "img",
     },
     {
       id: "2",
-      title: "failed to get images",
+      title: "waiting response from backend",
       img: "img",
     },
     {
       id: "3",
-      title: "failed to get images",
+      title: "waiting response from backend",
       img: "img",
     },
     {
       id: "4",
-      title: "failed to get images",
+      title: "waiting response from backend",
       img: "img",
     },
     {
       id: "5",
-      title: "failed to get images",
+      title: "waiting response from backend",
       img: "img",
     },
     {
       id: "6",
-      title: "failed to get images",
+      title: "waiting response from backend",
       img: "img",
     },
     {
       id: "7",
-      title: "failed to get images",
+      title: "waiting response from backend",
       img: "img",
     },
     {
       id: "8",
-      title: "failed to get images",
+      title: "waiting response from backend",
       img: "img",
     },
     {
       id: "9",
-      title: "failed to get images",
+      title: "waiting response from backend",
       img: "img",
     },
     {
       id: "10",
-      title: "failed to get images",
+      title: "waiting response from backend",
       img: "img",
     },
     {
       id: "11",
-      title: "failed to get images",
+      title: "waiting response from backend",
       img: "img",
     },
   ],
